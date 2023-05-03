@@ -19,10 +19,15 @@
 </template>
 
 <style scoped>
+    .jumbotron{
+        height: 80vh;
+        background-image: url('/images/photo jumbotron.avif');
+    }
 
     p{
         text-align: center;
         font-size: 1.5rem;
+        padding-top: 3rem;
     }
 
 </style>
